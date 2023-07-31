@@ -1,0 +1,27 @@
+.contenedor{
+    display: flex;
+    width: auto;
+    background-color: #8FA68E;
+}
+body{
+    display: flex;
+    margin: 0%;
+}
+nav{
+    background-color: rgb(247, 183, 66);
+    color: black;
+    display: flex;
+    width: 100%;
+}
+section{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    background-color: antiquewhite;
+    width: 100%;
+    margin: 0%;
+}
+aside{
+    background-color: rgb(211, 199, 184);
+    width: 100%;
+    float: left;
+}
